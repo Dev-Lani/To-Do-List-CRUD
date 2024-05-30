@@ -1,0 +1,4 @@
+To access the To Do List please follow the steps:
+
+> Press the gear button at the top right corner of the screen
+> Press the "To Do" button
